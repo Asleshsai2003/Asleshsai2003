@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Web Development<br><br>🌱 I’m currently learning Java , SQL  and Angular<br><br>👨‍💻 All of my projects are available at https://github.com/Asleshsai2003<br> <br>📫 How to reach me asleshsai2003@gmail.com
+🔭 I’m currently working on Full Stack Web Development<br><br>🌱 I’m currently learning Java , SQL  and AngularJS<br><br>👨‍💻 All of my projects are available at https://github.com/Asleshsai2003<br> <br>📫 How to reach me asleshsai2003@gmail.com
 
 
 ## 🌐 Socials:
